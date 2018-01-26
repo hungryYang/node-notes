@@ -6,3 +6,5 @@
 
 初学Node，前端、JS也未达到精通状态，路漫漫其修远兮，吾将上下而求索。
 
+# gitbook
+[notes-of-node](https://hungryyang.gitbooks.io/notes-of-node/content/)
