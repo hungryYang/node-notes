@@ -19,3 +19,4 @@
 * [HTTP]()
     * [HTTP结构](chapter-4/01.HTTP结构.md)
     * [简单的Server](chapter-4/02.simple-server.md)
+    * [简单的client](chapter-4/03.client.md)
