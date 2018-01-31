@@ -20,3 +20,7 @@
     * [HTTP结构](chapter-4/01.HTTP结构.md)
     * [简单的Server](chapter-4/02.simple-server.md)
     * [简单的client](chapter-4/03.client.md)
+    
+* [Express](chapter-5/code.md)
+    * [api](chapter-5/01.express-api.md)
+    * [质量检测](chapter-5/02.QA.md)
