@@ -26,5 +26,5 @@
     * [质量检测](chapter-5/02.QA.md)
     
 * [模板引擎](chapter-6/front.md)
-    * [Handlebars](chapter-6/01.Handlebars.md)
+    * [Handlebars]()
     * [视图布局](chapter-6/02.视图和布局.md)
